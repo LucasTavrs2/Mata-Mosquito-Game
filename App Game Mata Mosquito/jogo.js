@@ -2,7 +2,7 @@
 	var altura = 0
 	var largura = 0
 	var vidas = 1
-	var tempo = 30
+	var tempo = 20
 
 	var criaMosquitoTempo = 1500 
 
@@ -21,6 +21,8 @@
 
 		var criaMosquitoTempo = 800
 		
+	} else if(nivel === 'iniciante'){
+		var criaMosquitoTempo = 1950
 	}
 
 
