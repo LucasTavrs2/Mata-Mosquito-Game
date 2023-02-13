@@ -11,15 +11,15 @@
 
 	if (nivel === 'normal') {
 
-		var criaMosquitoTempo = 1500
+		var criaMosquitoTempo = 1700
 
 	} else if (nivel === 'dificil') {
 
-		var criaMosquitoTempo = 1000
+		var criaMosquitoTempo = 1250
 		
 	} else if (nivel === 'chucknorris') {
 
-		var criaMosquitoTempo = 800
+		var criaMosquitoTempo = 950
 		
 	} else if(nivel === 'iniciante'){
 		var criaMosquitoTempo = 1950
